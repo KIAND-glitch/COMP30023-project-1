@@ -34,9 +34,15 @@ Project 1 (Total):                          14.25
 
 **Assessor comments:**
 
+
 Excellent, descriptive commit messages
+
 Good use of data structures
+
 Well modularised
+
 Good, descriptive comments
+
 Report exists, is <= 50 words, simulation time improved on at least 1 case
+
 Lacking explanation of why algorithm is better than default (-0.25)
