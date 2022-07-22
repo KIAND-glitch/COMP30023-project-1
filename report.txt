@@ -1,0 +1,3 @@
+The algorithmn works by checking if the files required for a process are available in that time unit (tick) and 
+runs that process if it was not previously run. After no more processes can be run within that tick, 
+all files are made available again and the tick is updated.
