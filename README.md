@@ -9,17 +9,29 @@ The basic implementation involves determining the current resourse allocation of
 ## Results
 
 =============== START RESULTS TABLE ====================
+
 Task 1: Process/file stats                  1.00
+
 Task 2: Execution time                      3.0
+
 Task 3: Deadlock detection                  2.00
+
 Task 4: Process termination (1 deadlock)    2.50
+
 Task 5: Process termination (>1 deadlock)   2.0
+
 Task 6: Challenge                           1.5
+
 Task 6: Challenge Report                    0.25
+
 Task 7: Quality of software practices       1
+
 Task 8: Build quality                       1
+
 Project 1 (Total):                          14.25
+
 ================ END RESULTS TABLE =====================
+
 Assessor comments:
 Excellent, descriptive commit messages
 Good use of data structures
